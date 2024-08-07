@@ -7,7 +7,7 @@ Steps to mint ERC-721 Token
 https://github.com/fung93/swisstronik-task-3-ERC721.git
 ```
 ```shell
-cd swisstronik-erc721-mint-token
+cd swisstronik-task-3-ERC721
 ```
 2. Install Dependency
 ```shell
